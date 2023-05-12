@@ -1,0 +1,16 @@
+{
+  "name": "planilha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "planilha.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "exceljs": "^4.3.0"
+  }
+}

@@ -1,0 +1,34 @@
+# Ignore arquivos de configuração do sistema
+node_modules/
+*.log
+*.swp
+*.bak
+
+# Dependências
+package-lock.json
+
+# Ignore arquivos de build
+build/
+dist/
+
+# Arquivos específicos do editor
+.vscode/
+.idea/
+
+# Arquivos de teste
+coverage/
+
+# Ignore arquivos de ambiente
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Outros
+.DS_Store
+Thumbs.db
+
+
+*.xlsx
