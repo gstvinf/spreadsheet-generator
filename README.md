@@ -23,4 +23,4 @@ npm install
 npm start
 ```
 
-Your file will be created in folder with incrementing name
+See the magic!
